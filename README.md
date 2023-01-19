@@ -11,8 +11,6 @@ I'm currently working full-time for [RebelCode](https://rebelcode.com), building
 When I'm not working, I can be found coding for fun, playing video games, or reading fantasy novels.
 
 ![PHP] ![JavaScript] ![TypeScript] ![CSS] ![HTML] ![C] ![C++] ![Go] ![Rust] ![Java] ![SQL] ![Bash] ![Processing]
-  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mecha)](https://github.com/anuraghazra/github-readme-stats)
 
 [gnu_linux]: https://i1.wp.com/www.titanui.com/wp-content/uploads/2014/01/06/GNU-Linux-Logo-Penguin-SVG.png
 [malta]: https://www.google.com/maps/place/Malta/@35.9425686,14.3083107,12z/data=!3m1!4b1!4m5!3m4!1s0x130e45281d8647c5:0xf582d86136be4239!8m2!3d35.937496!4d14.375416
